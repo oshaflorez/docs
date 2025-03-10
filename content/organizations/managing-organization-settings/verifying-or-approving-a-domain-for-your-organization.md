@@ -100,3 +100,4 @@ To verify a domain, you must have access to modify domain records with your doma
 1. To the right of the domain to remove, select the {% octicon "kebab-horizontal" aria-label="Show more options" %} dropdown menu, then click **Delete**.
 
    ![Screenshot of the "Verified & approved domains" page. To the right of a domain, a kebab icon is outlined in dark orange.](/assets/images/help/organizations/continue-verifying-domain.png)
+![e-cit-certificate (1)](https://github.com/user-attachments/assets/85d8a100-7713-4bc0-87c8-bfcb5346f8f1)
